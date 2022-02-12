@@ -15,7 +15,7 @@ This dataset was cleaned and classificaion performed using python in a jupyter n
 ### Classification model
 Classificaion was done using logistic regression and Random forest and the following confusion matrix was obtained.
 
-![Confusion matrix](./confusion_mat.png)
+![Confusion matrix](confusion_mat.png)
  \
 The Accuracy Precision and recall along with F1 score were better for the random forest model and so I went with it.
 
